@@ -21,7 +21,9 @@ A seguir estão os nomes das 8 integrantes, que com muita proatividade e colabor
 
 ## Dados 
 
-As bases de dados foram originalmente extraídas do Kaggle (https://www.kaggle.com/datasets/gerosa/procon) e se encontram disponíveis também dentro do repositório, assim como outra base utilizada que foi obtida através do site do IBGE.
+As bases de dados do Procon utilizadas foram originalmente extraídas do Kaggle e estão disponíveis no seguinte link: https://www.kaggle.com/datasets/gerosa/procon) 
+
+Outra base utilizada, populacao_media_por_estado.csv, está disponivel dentro do repositório e foi obtida através do site do IBGE.
 
 
 ## Apresentação
